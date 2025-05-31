@@ -1,5 +1,10 @@
 # AccessAI - AI-Powered Accessibility Assistant
 
+
+[pitch slides](https://docs.google.com/presentation/d/1aXUrk0xIYkroAFgsfUAPFfolzzKI1QH-lB4RC7SB900/edit?usp=sharing)
+
+[Try it](https://accessai-nu.vercel.app/)
+
 AccessAI is an innovative web application that leverages artificial intelligence to make digital content accessible to everyone, regardless of their abilities or disabilities.
 
 ## Problem Identification
